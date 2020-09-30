@@ -6,6 +6,7 @@
 package com.edgarmayorga.webservice;
 
 import java.sql.Connection;
+import java.util.ArrayList;
 import javax.jws.WebService;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;

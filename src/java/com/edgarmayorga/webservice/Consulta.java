@@ -5,8 +5,11 @@
  */
 package com.edgarmayorga.webservice;
 
+import java.sql.Blob;
 import java.sql.CallableStatement;
+import java.sql.Connection;
 import java.sql.ResultSet;
+import java.sql.Statement;
 import java.util.ArrayList;
 
 /**
